@@ -1,4 +1,4 @@
-# Anxiety Relief on ZeppOS
+# Anxiety Relief for ZeppOS
 For Cal Havks 9.0
 Table 132
 
