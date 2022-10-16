@@ -1,11 +1,11 @@
 # Anxiety Relief for ZeppOS
-For Cal Havks 9.0
+For Cal Halks 9.0
 Table 132
 
 Contributers:
-Ziqing Zhang
-Ross Nikolai Montepalco
-Nguyen Luong
+Ziqing Zhang,
+Ross Nikolai Montepalco,
+Nguyen Luong,
 Hoai An Nguyen
 
 Anxiety Relief is a health app for Zepp  devices that allows users to track their stress and heart rate level and notify users when those values reach critical value. 
