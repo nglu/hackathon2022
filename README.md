@@ -27,15 +27,8 @@ The following are **optional** features:
 
 
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-GIF created with ...  
-[ScreenToGif](https://www.screentogif.com/) for Windows
+## Logo 
+Created my logo at LogoMakr.com/app
 
 ## Notes
 None
