@@ -1,6 +1,8 @@
+import * as hmUI from '@zos/ui'
+import { log as Logger } from '@zos/utils'
 import { TEXT_STYLE } from './index.style'
 
-const logger = DeviceRuntimeCore.HmLogger.getLogger('helloworld')
+const logger = Logger.getLogger('helloworld')
 Page({
   build() {
     logger.debug('page build invoked')
