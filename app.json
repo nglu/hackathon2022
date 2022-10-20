@@ -1,7 +1,7 @@
 {
   "configVersion": "v2",
   "app": {
-    "appId": 28897,
+    "appId": 23136,
     "appName": "Anxiety Relief",
     "appType": "app",
     "version": {
@@ -10,7 +10,7 @@
     },
     "icon": "icon.png",
     "vender": "zepp",
-    "description": "Anxiety Relief App"
+    "description": "anxiety relief app"
   },
   "permissions": [
     "data:os.device.info",

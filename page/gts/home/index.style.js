@@ -5,7 +5,7 @@ import { getDeviceInfo } from '@zos/device'
 export const { width: DEVICE_WIDTH, height: DEVICE_HEIGHT } = getDeviceInfo()
 
 export const TEXT_STYLE = {
-  text: getText('appName'),
+  text: 'Anxiety Relief',
   x: 42,
   y: 200,
   w: DEVICE_WIDTH - 42 * 2,
