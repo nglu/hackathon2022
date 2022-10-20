@@ -1,6 +1,6 @@
 # Anxiety Relief for ZeppOS
-For Cal Halks 9.0
-Table 132
+
+This is version 1.0 that are compatible with gts3
 
 Contributers:
 Ziqing Zhang,
