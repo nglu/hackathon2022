@@ -7,7 +7,7 @@ export const { width: DEVICE_WIDTH, height: DEVICE_HEIGHT } = getDeviceInfo()
 export const TEXT_STYLE = {
   text: 'Anxiety Relief',
   x: 42,
-  y: 200,
+  y: 80,
   w: DEVICE_WIDTH - 42 * 2,
   h: 100,
   color: 0xffffff,
